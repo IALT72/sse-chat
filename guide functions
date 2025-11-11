@@ -1,0 +1,18 @@
+fix: resolve connection issues in chat client
+
+- Fix WebSocket reconnection logic
+- Handle connection timeout properly
+- Add error logging for connection failures
+
+feat: add message persistence
+
+- Implement message history storage
+- Add local storage support for chat history
+- Persist messages across browser sessions
+
+refactor: improve UI responsiveness
+
+- Optimize CSS for mobile devices
+- Enhance message rendering performance
+- Update color scheme for better accessibility
+
